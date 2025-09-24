@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pillow
+facenet-pytorch
+scikit-learn
+pandas
+torch     # pip will pick cpu or gpu depending on your env
+gradio
+deepface
